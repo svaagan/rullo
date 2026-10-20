@@ -1,6 +1,6 @@
-// Where the download button goes. Null until the app is out: the page says it is coming instead.
+// Where the download button goes. Null means the page says the app is coming instead.
 // TestFlight's public link while testing, the App Store link after launch.
-const APP_URL = null;
+const APP_URL = "https://testflight.apple.com/join/UeY7SZ4Y";
 
 function showDownload() {
   for (const el of document.querySelectorAll("[data-download]")) {
