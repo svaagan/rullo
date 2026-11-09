@@ -11,12 +11,3 @@ function showDownload() {
     }
   }
 }
-
-// The event code from a path like /e/HJ7K2Q or /e/hj7-k2q, or null.
-// Same alphabet as the server: no I, O, 0 or 1.
-function eventCode(path) {
-  const match = path.match(/^\/e\/([^/]+)\/?$/i);
-  if (!match) return null;
-  const code = decodeURIComponent(match[1]).toUpperCase().replace(/[\s-]/g, "");
-  return /^[A-HJ-NP-Z2-9]{6}$/.test(code) ? code : null;
-}
