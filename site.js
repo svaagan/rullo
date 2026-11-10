@@ -4,8 +4,8 @@ const APP_URL = "https://testflight.apple.com/join/UeY7SZ4Y";
 
 // Button texts per page language (the <html lang> attribute decides).
 const TEXTS = {
-  nb: { download: "Last ned Knips", soon: "Knips kommer snart til iPhone." },
-  en: { download: "Get Knips", soon: "Knips is coming soon to iPhone." },
+  nb: { download: "Last ned Rullo", soon: "Rullo kommer snart til iPhone." },
+  en: { download: "Get Rullo", soon: "Rullo is coming soon to iPhone." },
 };
 
 function showDownload() {

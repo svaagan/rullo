@@ -1,6 +1,7 @@
-# knipspics.no
+# svaagan.github.io/rullo/
 
-Nettsiden til Knips, servert av GitHub Pages. Statiske filer, ingen byggsteg.
+Nettsiden til Rullo (het Knips og lå på knipspics.no til 2026-11-10), servert av GitHub Pages fra repoet
+`svaagan/rullo` under fellessiden. Alle stier begynner med `/rullo/`. knipspics.no sendes videre hit fra Domeneshop. Statiske filer, ingen byggsteg.
 
 - `index.html` – forsiden.
 - `en/` – engelsk utgave av de tre sidene: `en/index.html`, `en/privacy/` og `en/support/`. Samme CSS, JS og fonter

@@ -1,8 +1,8 @@
-@font-face { font-family: "Shrikhand"; src: url("/fonts/Shrikhand-Regular.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "Bricolage"; font-weight: 400; src: url("/fonts/BricolageGrotesque-Regular.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "Bricolage"; font-weight: 700; src: url("/fonts/BricolageGrotesque-Bold.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "Bricolage"; font-weight: 800; src: url("/fonts/BricolageGrotesque-ExtraBold.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "Space Mono"; font-weight: 700; src: url("/fonts/SpaceMono-Bold.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "Shrikhand"; src: url("/rullo/fonts/Shrikhand-Regular.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "Bricolage"; font-weight: 400; src: url("/rullo/fonts/BricolageGrotesque-Regular.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "Bricolage"; font-weight: 700; src: url("/rullo/fonts/BricolageGrotesque-Bold.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "Bricolage"; font-weight: 800; src: url("/rullo/fonts/BricolageGrotesque-ExtraBold.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "Space Mono"; font-weight: 700; src: url("/rullo/fonts/SpaceMono-Bold.woff2") format("woff2"); font-display: swap; }
 
 :root {
   --paper: #F1E4C8;
